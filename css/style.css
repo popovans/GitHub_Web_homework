@@ -53,7 +53,7 @@ body {
 	.name {
 		text-align: center;
 		font-size: 2.8em;
-		color: gainsboro;
+		color: rgba(175,133,255,1);
 		margin-top: 15%;
 		margin-bottom: auto;
 		text-transform: capitalize;
@@ -67,7 +67,7 @@ body {
 	.subtitle {
 		text-align: center;
 		font-size: 1.5em;
-		color: darkgray;
+		color: rgba(175,133,255,1);
 	}
 	.icons {
 		font-size: 18px;
@@ -84,8 +84,8 @@ body {
 		display: block;
 		background-color: rgba(175,133,255,1);
 		padding: 10px;
-		margin-left: 7%;
-		margin-right: 7%;
+		margin-left: 25%;
+		margin-right: 25%;
 		border-radius: 8px;
 	}
 }
